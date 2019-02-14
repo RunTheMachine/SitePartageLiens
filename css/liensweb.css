@@ -1,0 +1,31 @@
+/* 
+Activité 1
+*/
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #eee;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+span {
+    font-weight: normal;
+    font-size: 80%;
+}
+
+.lien {
+    background: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* 
+Activité 2
+*/
+
+#message {
+	background: #d0ecf4;
+    color: #4a8a99;
+    padding: 30px;
+}
